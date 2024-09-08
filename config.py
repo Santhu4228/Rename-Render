@@ -13,13 +13,13 @@ API_HASH = os.environ.get("API_HASH", "a361bd7ea5fb4930786e54a480a6e929")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7378927068:AAFxQLy6jDFSJ7bL3FSCCab78Lki5bFhVVg") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "DS_WORLD") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+DB_NAME = os.environ.get("DB_NAME", "renamebot")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://santhusugu33:6NouR90tLF1pJBSL@dsworld.dil3c.mongodb.net/?retryWrites=true&w=majority&appName=Dsworld")
  
